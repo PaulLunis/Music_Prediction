@@ -5,4 +5,3 @@ This is a practice machine learning project using decision trees to predict pref
 Built With
 Jupyter Notebook 5.7
 
-Project Link:https://github.com/PaulLunis/Music_Prediction.git
